@@ -5,9 +5,9 @@ then I created a React-App by executing command
 ##create-react-app manasi-app
 
 In this project all the files are in source folder
-Header.js
-Footer.js
-Main.js
+Header.js,
+Footer.js,
+Main.js,
 Nav.js
 and their CSS files,
 
