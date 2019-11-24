@@ -1,0 +1,36 @@
+.Main {
+    
+    width: 75%;
+    padding: 10px;
+    height: 690px; 
+    background-color:black;
+    display: flex;
+}
+
+.Blog{
+    height: 600px;
+    width:100%;
+    background-color:rgb(197, 240, 180);
+    
+}
+.Blog2{
+    height: 600px;
+    width:100%;
+    background-color:rgb(135, 177, 231);
+    
+}
+.Blog3{
+    height: 600px;
+    width:100%;
+    background-color:rgb(209, 176, 222);
+    
+}
+.Img{
+    height:200px;
+    width: 250px;
+
+}
+
+.table{
+    width:100%
+} 
